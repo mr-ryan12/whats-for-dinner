@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Setup](#setup)
-- [Deploy Link](#deploy-link)
+- [Links](#links)
 - [Future Additions](#future-additions)
 - [Contributors](#contributors)
 - [Technologies](#technologies)
@@ -18,14 +18,16 @@ This application assists users with choosing what to have for dinner! Users can 
 - Navigate into the directory
 - Run `open index.html` in your terminal
 
-## Deploy Link
+## Links
 Feel free to see it in action by clicking [here](https://mr-ryan12.github.io/whats-for-dinner/)  
+Checkout the Turing spec sheet [here](https://frontend.turing.edu/projects/module-1/dinner.html)
   
 ## Future Additions
-I'd like to add a login page at somepoint and also include some functionality for error handling. 
+I'd like to add a login page at somepoint and also include some functionality for the 'Add Recipe' button. 
 
-## Contributors
-Ryan McBride
+## Contributors  
+[Hannah Hudson](https://github.com/hannahhch)  
+[Ryan McBride](https://github.com/mr-ryan12)
    
 ## Technologies
 HTML  
