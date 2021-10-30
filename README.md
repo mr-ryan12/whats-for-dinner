@@ -23,7 +23,7 @@ Feel free to see it in action by clicking [here](https://mr-ryan12.github.io/wha
 Checkout the Turing spec sheet [here](https://frontend.turing.edu/projects/module-1/dinner.html)
   
 ## Future Additions
-I'd like to add a login page at somepoint and also include some functionality for the 'Add Recipe' button. 
+I'd like to add a login page at some point and also include some functionality for the 'Add Recipe' button. 
 
 ## Contributors  
 [Hannah Hudson](https://github.com/hannahhch)  
